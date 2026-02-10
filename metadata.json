@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Notes",
+  "description": "An intelligent note-taking application that leverages Gemini AI for semantic search, auto-tagging, and contextual retrieval.",
+  "requestFramePermissions": []
+}
